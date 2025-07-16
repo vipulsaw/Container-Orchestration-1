@@ -6,4 +6,4 @@ backend:
 
 frontend:
   image: vipulsaw123/frontend:latest
-  replicaCount: 2
+  replicaCount: 1
