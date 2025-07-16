@@ -1,0 +1,9 @@
+mongoUrl: "mongodb://mongo:27017/blog_mern"
+
+backend:
+  image: tanujbhatia24/backend:latest
+  replicaCount: 1
+
+frontend:
+  image: tanujbhatia24/frontend:latest
+  replicaCount: 1
